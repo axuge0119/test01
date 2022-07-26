@@ -1,0 +1,5 @@
+1.AVI各画面协作关系梳理：多画面的检测缺陷特征的区别
+2.****重写一个现有算子：BlockThreshold, 熟悉并掌握新算子的创建过程
+3.****学习重要算子的源码：代码思路及风格（在algoDemo中重现代码过程，并尝试处理现有漏检和过检的情况）
+	重现shiftMean, blockThreshold, findActiveArea, extractROI等代码过程
+4.总结处理过检和漏检的常用方法。
